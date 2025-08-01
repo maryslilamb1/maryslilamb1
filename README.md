@@ -31,7 +31,7 @@ More projects in the [📂 Repositories](https://github.com/<your-username>?tab=
 ---
 
 ### 🌐 Connect With Me
-- [LinkedIn]([https://www.linkedin.com/in/maryam-ahmed/](https://www.linkedin.com/in/maryam-ahmed-555813241/))  
+- [LinkedIn]([https://www.linkedin.com/in/maryam-ahmed-555813241/])  
 <!-- - [Personal Website](https://yourwebsite.com) -->  
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
 
