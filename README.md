@@ -31,7 +31,7 @@ More projects in the [📂 Repositories](https://github.com/<your-username>?tab=
 ---
 
 ### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/maryam-ahmed/)  
+- [LinkedIn]([https://www.linkedin.com/in/maryam-ahmed/](https://www.linkedin.com/in/maryam-ahmed-555813241/))  
 <!-- - [Personal Website](https://yourwebsite.com) -->  
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
 
@@ -40,7 +40,7 @@ More projects in the [📂 Repositories](https://github.com/<your-username>?tab=
 ### ✨ Fun Facts
 - 🏔️ I love planning group trips and have a deep interest in culture & travel  
 - 🍳 My go-to comfort dish? Egg fried rice with mushrooms and carrots  
-- 💬 Favorite Quote: *"Technology is best when it brings people together." – Matt Mullenweg*
+- 💬 Favorite Quote: *Winner are not people who never fail they are people who never quit*
 
 ---
 
